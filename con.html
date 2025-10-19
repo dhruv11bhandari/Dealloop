@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dealloop</title>
+  <style>
+    body {
+      background-color: rgb(12, 11, 11);
+      color: rgb(219, 213, 213);
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    header {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      padding: 10px 20px;
+      background-color: #0b0b0b;
+    }
+    .logo {
+      margin-right: 20px;
+      color: #38a581;
+      font-weight: bold;
+      font-size: 1.5rem;
+    }
+    nav a {
+      margin-left: 15px;
+      text-decoration: none;
+      color: #38a581;
+      font-weight: 600;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section.intro-text {
+      color: #82c99a;
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    section.credits {
+      padding: 20px;
+      max-width: 600px;
+      margin: auto;
+      color: #47d3d5;
+    }
+    a {
+      color: #38a581;
+      text-decoration: none;
+    }
+    form {
+      margin-top: 20px;
+    }
+    label {
+      display: block;
+      margin: 10px 0 5px;
+    }
+    input[type="text"],
+    input[type="email"],
+    select,
+    textarea {
+      width: 100%;
+      padding: 8px;
+      border-radius: 4px;
+      border: none;
+      box-sizing: border-box;
+      margin-bottom: 15px;
+      background-color: #222;
+      color: #ddd;
+      font-size: 1rem;
+    }
+    textarea {
+      resize: vertical;
+      height: 100px;
+    }
+    input[type="submit"] {
+      background-color: #38a581;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    input[type="submit"]:hover {
+      background-color: #2e7b59;
+    }
+    .follow-us {
+      margin-top: 30px;
+    }
+    .follow-us a {
+      margin-right: 15px;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #111;
+      color: #777;
+      font-size: 0.9rem;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="logo">-&gt;</div>
+    <nav>
+      <a href="file:///Users/dhruvbhandari/Desktop/RV%20UNIVERSITY%20/web%20ux%20rv%20uni/dhruv%20X%20bhumika/main.html">HOME</a>
+      <a href="file:///Users/dhruvbhandari/Desktop/RV%20UNIVERSITY%20/web%20ux%20rv%20uni/dhruv%20X%20bhumika/coup.html">COUPONS</a>
+      <a href="file:///Users/dhruvbhandari/Desktop/RV%20UNIVERSITY%20/web%20ux%20rv%20uni/dhruv%20X%20bhumika/aboutus.html">ABOUT US</a>
+      <a href="file:///Users/dhruvbhandari/Desktop/RV%20UNIVERSITY%20/web%20ux%20rv%20uni/dhruv%20X%20bhumika/con.html">CONTACT</a>
+    </nav>
+  </header>
+
+  <section class="intro-text">
+    <h3>We are happy to hear from you!</h3>
+    <p>Have a question, idea, or a wild coupon victory story? We’re all ears. Whether you want help, want to partner, or just want to say hi — reach out and we’ll reply asap.</p>
+    
+    <h4>Contact Options</h4>
+    <p>Email: <a href="321dhruv.b@gmail.com">321dhruv.b@gmail.com</a></p>
+    <p>Partnerships / Media: <a href="321dhruv.b@gmail.com@dealloop.com">321dhruv.b@gmail.com</a></p>
+    <p>General Inquiries: <a href="321dhruv.b@gmail.com">321dhruv.b@gmail.com</a></p>
+    <p>Phone: +91 8971299734 (Mon–Fri)</p>
+    <p>Address: Skymansion 021, 27th Floor, Kingfisher Tower,vithal mallia road, Bangalore, India</p>
+
+    <h4>Support Hours</h4>
+    <p>Monday — Friday: 09:00 – 18:00 (IST)</p>
+    <p>(If you contact us outside these hours, don’t worry — we’ll pick it up when we’re back.)</p>
+
+    <h4>Quick Contact Form</h4>
+    <form>
+      <label for="fullname">Full name</label>
+      <input type="text" id="fullname" name="fullname" required>
+
+      <label for="email">Email address</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="subject">Subject</label>
+      <select id="subject" name="subject" required>
+        <option value="">Select</option>
+        <option value="support">Support</option>
+        <option value="partnership">Partnership</option>
+        <option value="feedback">Feedback</option>
+        <option value="other">Other</option>
+      </select>
+
+      <label for="message">Message</label>
+      <textarea id="message" name="message" required></textarea>
+
+      <input type="submit" value="Send Message">
+    </form>
+
+    <div class="follow-us">
+      <h4>Follow Us</h4>
+      <a href="https://www.instagram.com">Instagram</a>
+      <a href="#">Twitter</a>
+      <a href="#">Facebook</a>
+      <a href="https://www.linkedin.com/in/dhruv-bhandari-b08041364/">LinkedIn</a>
+    </div>
+
+    <h4>Privacy Note</h4>
+    <p>We respect your privacy. Your contact details will only be used to respond to your message and improve DealLoop.</p>
+    
+    <h4>Need urgent help?</h4>
+    <p>If something’s urgent (payment or security-related), please include “URGENT” at the start of your message subject so it gets immediate attention.</p>
+  </section>
+
+  
+
+  <footer id="footer">
+    &copy; 2025 bhandari & company. All rights reserved.
+  </footer>
+
+</body>
+</html>
