@@ -25,16 +25,8 @@ This project highlights creative layout design, responsive UI, and a modern dark
 
 ---
 
-## 📸 Preview
-
-![DealLoop Logo](./assets/logo.png)
-
-> A sleek dark-themed coupon exchange concept built with HTML and CSS.
-
----
-
 ## ⚙️ How to Run
 
 1. Clone or download the repository  
    ```bash
-   git clone https://github.com/yourusername/dealloop.git
+   git clone https://github.com/dhruv11bhandari/dealloop
