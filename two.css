@@ -9,7 +9,7 @@ video {
 }
 header {
   display: flex;
-  justify-content: flex-end; /* aligns items to the right */
+  justify-content: flex-end; /* aligns stuff to the right */
   align-items: center;
   padding: 10px 20px;
   font-weight: bold;
