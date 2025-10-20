@@ -14,7 +14,7 @@
 
 ---
 
-## 🪐 what is dealloop
+## 🪐 what is dealloop???
 
 > **Deal Loop** is not just a project — it’s an *idea that loops innovation and creativity into reality!*  
 > DealLoop is a modern, sleek platform designed to make coupon hunting effortless and social. It allows users to explore trending deals, share exclusive discount codes, and connect with a community of smart shoppers — all in a clean, futuristic dark-themed interface.
