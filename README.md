@@ -1,32 +1,45 @@
-# 🌀 DealLoop
+<!-- ───────────────────────────────────────────────────────────── -->
+<!-- 🌟 README.md for Deal Loop | By Dhruv Bhandari & Team 🌟 -->
+<!-- ───────────────────────────────────────────────────────────── -->
 
-Welcome to **DealLoop** — a simple yet powerful platform designed for exchanging and discovering coupon codes.  
-Built entirely with **HTML and CSS**, DealLoop focuses on sleek design, smooth user experience, and clear presentation.  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+Deal+Loop!;Innovating+the+Future+of+Deals💡;Crafted+with+❤️+by+Dhruv+Bhandari+and+Team" />
+</h1>
 
----
-
-## 🌟 Overview
-
-**DealLoop** is a front-end concept website where users can:
-- 🔁 Exchange and share coupon codes  
-- 💸 Discover the latest deals and discounts  
-- 💬 Connect with other smart shoppers  
-- 🏷️ Stay in the loop — always!  
-
-This project highlights creative layout design, responsive UI, and a modern dark theme.
+<p align="center">
+  <img src="https://img.shields.io/github/license/dhruv11bhandari/dealloop?style=for-the-badge&color=00ffcc" />
+  <img src="https://img.shields.io/github/stars/dhruv11bhandari/dealloop?style=for-the-badge&color=00ffcc" />
+  <img src="https://img.shields.io/github/forks/dhruv11bhandari/dealloop?style=for-the-badge&color=00ffcc" />
+</p>
 
 ---
 
-## 🧩 Tech Stack
+## 🪐 About Us
 
-- **HTML5** – For structure and layout  
-- **CSS3** – For styling, animations, and responsiveness  
-- **No frameworks, no JavaScript — pure front-end magic!**
+> **Deal Loop** is not just a project — it’s an *idea that loops innovation and creativity into reality!*  
+> From UI design to performance optimization, every pixel and line of code has been crafted with passion.
 
 ---
 
-## ⚙️ How to Run
+## 🧠 Project Overview
 
-1. Clone or download the repository  
-   ```bash
-   git clone https://github.com/dhruv11bhandari/dealloop
+- 🌍 **Frontend:** HTML + CSS  
+- ⚙️ **Backend (optional):** Coming Soon!  
+- 🎨 **Design:** Clean, futuristic black theme  
+- ✨ **Goal:** Simplify and enhance user experience in deal management.
+
+---
+
+## 🗂️ Project Structure
+
+```bash
+DealLoop/
+│
+├── DealLoop.mp4 # Demo video
+├── README.md # This file
+├── aboutus.html # About Us page
+├── con.html # Contact page
+├── coup.html # Coupon codes page
+├── input.html # Coupon submission form
+├── main.html # Homepage
+├── two.css # Main styles
